@@ -1,0 +1,11 @@
+main: work.crystalnet.plugin.CrystalNetwork
+name: CrystalNetwork
+version: ${project.version}
+description: for CrystalNetwork.
+author: tasra
+prefix: CrystalNetwork
+commands:
+  develop:
+    description: Develop plugin
+    usage: /<command> ...
+    aliases: dev
